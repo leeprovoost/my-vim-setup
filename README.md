@@ -8,6 +8,6 @@ This assumes that you have set up iTerm2 with Powerline fonts and Solarized colo
 
 1. Install NeoBundle (Vim package manager): `curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh`
 2. Copy (or add) contents of file vimrc to your ~/.vimrc settings file
-3. Download vim-colors-solarized: `git pull https://github.com/altercation/vim-colors-solarized`
-4. Copy the colour file: `cp colors/solarized.vim ~/.vim/colors/
+3. Download vim-colors-solarized: `git clone https://github.com/altercation/vim-colors-solarized`
+4. Copy the colour file: `cp colors/solarized.vim ~/.vim/colors/`
 5. Launch vim, it will ask you to install packages
